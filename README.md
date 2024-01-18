@@ -6,7 +6,7 @@
 
 Circus is a game created by Lêané Matejko and Reisha Tailor. Find out the uses of different files. Find out how to run the game. Find the controls of the game.
 
-Python is the language used to create this game. simplegui is the library used to assist with the development of this game.
+Python is the language used to create this game. PySimplegui is the library used to assist with the development of this game.
 
 ### GET
 
@@ -14,18 +14,18 @@ Circus will be available on the page of the submission of the game.
 
 HOW TO PLAY
 	Download the folder with all the files. Then run the python file called 'Game.py', instructions for the control should be present on the left hand of the screen.
-  ***Required to have the SimpleGUI library within the directory to run.***
+  ***Required to have the PySimpleGUI library within the directory to run.***
 
 ### FILES
 
 **Bullet.py**
-  The file with the properties of the player bullet. It has a method for the launch of the bullet, changing its position based on the direction it was shot in. There is a method for drawing the bullet to the canvas.
+> The file with the properties of the player bullet. It has a method for the launch of the bullet, changing its position based on the direction it was shot in. There is a method for drawing the bullet to the canvas.
 
 **CDialSprites.py**
-  The file for the dialogue section. It is for the Contortionist. It describes various factors for what will appear on the screen when the Contortionist appears.
+> The file for the dialogue section. It is for the Contortionist. It describes various factors for what will appear on the screen when the Contortionist appears.
 
 **Clock.py**
-  The file for the clock. The clock will tick every time the tick method is called.
+> The file for the clock. The clock will tick every time the tick method is called.
 
 **DDDialSprites.py**
 
